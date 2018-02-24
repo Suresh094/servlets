@@ -8,7 +8,7 @@
   	<servlet-name>loginServlet</servlet-name>
   	<display-name>loginServlet</display-name>
   	<description></description>
-  	<servlet-class>com.suresh.loginServlet</servlet-class>
+  	<servlet-class>com.suresh.servlets.loginServlet</servlet-class>
   </servlet>
   <servlet>
   	<servlet-name>GetCustomer</servlet-name>

@@ -11,6 +11,6 @@
 The Customer details are ${customer}
 <br>
 <h2></h2>
-<a href="index.html">Return to home page</a>
+<a href="index.jsp">Return to home page</a>
 </body>
 </html>
